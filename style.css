@@ -52,7 +52,7 @@
 }
 
 .img{
-	border: 4px solid white;
+	border: 3px solid white;
 	height: 330px;
 	width: 400px;
 	flex-grow: 1;
